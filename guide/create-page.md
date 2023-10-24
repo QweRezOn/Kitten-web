@@ -1,6 +1,6 @@
 ---
 title: Информация
-description: Страница информации
+description: Страница информации2
 author: QweRezOn
 tags: [info, RU]
 ---
