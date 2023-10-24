@@ -38,7 +38,7 @@ tags: [info, RU]
 Ссылки могут быть созданы следующим образом: [текст ссылки](URL), например, `[Google](https://www.google.com)`.
 
 Чтобы вставить изображение, используйте синтаксис `![альтернативный текст](URL к изображению)`, например:
-
+ 
 ![Фотка]([https://example.com/logo.png](https://github.com/QweRezOn/Kitten-web/blob/main/img/7a9df72a46dcc1f15f7aaf4b8ab0af5d.jpeg))
 
 
