@@ -1,5 +1,5 @@
 ---
-title: Моя Страница
+title: Информация
 description: Страница информации
 author: QweRezOn
 tags: [info, RU]
