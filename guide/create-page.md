@@ -62,4 +62,5 @@ tags: [info, RU]
 function sayHello() {
   console.log('Hello, World!');
 }
+```
 1
