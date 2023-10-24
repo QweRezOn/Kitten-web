@@ -1,8 +1,8 @@
 ---
 title: Моя Страница
 description: Описание вашей страницы
-author: Ваше имя
-tags: [info, RUS]
+author: QweRez
+tags: [info, RU]
 ---
 
 # Заголовок 1
