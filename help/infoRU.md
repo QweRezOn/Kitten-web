@@ -2,7 +2,7 @@
 title: Моя Страница
 description: Описание вашей страницы
 author: Ваше имя
-tags: [info, Тэг2, Тэг3]
+tags: [info, RU, Тэг3]
 ---
 
 # Заголовок 1
