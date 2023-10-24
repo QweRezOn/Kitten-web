@@ -1,7 +1,7 @@
 ---
 title: Моя Страница
-description: Описание вашей страницы
-author: QweRez
+description: Страница информации
+author: QweRezOn
 tags: [info, RU]
 ---
 
